@@ -16,7 +16,9 @@ Synthetics, primarily the rhUSD dollar pegged instance deployed as an example of
 - Capital Efficiency: Utilizing multiple assets (rBTC, RIF, USDRIF, ETHs) as collateral allows for more efficient use of capital, enabling users to leverage a broader asset base.
 - Rehypothecation: Assets used as collateral can be rehypothecated, meaning they can be used simultaneously in multiple financial operations, enhancing liquidity.
 - Ecosystem: Promotes interoperability within the Rootstock DeFi ecosystem, increasing the utility of various tokens.
-- 
+
+Multicollateralization of assets with rBTC also allows a singular efficient pool of collateral to mint multiple synthetic assets on top of the pool.
+
 Additionally, relying solely on Bitcoin as collateral exposes the system to Bitcoin's price volatility. This can be mitigated with stablecoins or more stable assets in the multicollateral pool for all rh synthetics.
 - Liquidation Risks: Sharp declines in Bitcoin's price can trigger collateral liquidations, destabilizing the system.
 - Over-Collateralization: Users may need to provide excessive collateral to safeguard against volatility, reducing capital efficiency.
