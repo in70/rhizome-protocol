@@ -1,0 +1,12 @@
+node_modules
+arguments.js
+.env
+coverage
+coverage.json
+deployments
+typechain
+deployedContracts.txt
+
+#Hardhat files
+cache
+artifacts
